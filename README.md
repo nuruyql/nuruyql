@@ -93,7 +93,9 @@ developer = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nuruyql/nuruyql/output/github-snake-dark.svg" alt="Contribution Snake"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nuruyql/nuruyql/gh-pages/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
 
 </div>
 
